@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordrocess",
+        "uuid": 24985740,
+        "checksum": "gua1nb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
